@@ -5,7 +5,7 @@ simport java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // Khai b�o m?ng ?? l?u th�ng tin
+        // Khai b�o m?ng ?? l?u th�ng tin
         String[] tenChiNhanh = new String[5];
         int[] soLuongNhanVien = new int[5];
         Scanner scanner = new Scanner(System.in);
@@ -61,7 +61,7 @@ public class Main {
                 chiPhiDuTru = soLuongNhanVien[i] * 3800;
             }
 
-            System.out.println("Chi phí dự trù: " + chiPhiDuTru);
+            System.out.println("Chi phí dự trù: " + chiPhiDuTru:);
         }
     }
 
